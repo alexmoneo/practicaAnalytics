@@ -1,6 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 @tailwind base;
 @tailwind components;
-.header{
-    @apply container max-w-screen-xl mx-auto bg-transparent grid grid-cols-2 justify-between content-center py-14;
-}
-@tailwind utilities; 
+@tailwind utilities;

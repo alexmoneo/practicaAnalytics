@@ -16,7 +16,7 @@
      <title>Analytics — Landing Page</title>
      <link rel="stylesheet" href="assets/css/dist/output.css" type="text/css" />
 
-</head> 
+</head>
 
 <body  class=" font-roboto container mx-auto max-w-screen-2xl box-border bg-base">
      <?php include("assets/templates/header.php"); ?>
