@@ -13,7 +13,7 @@
      <meta name="author" content="Alejandro Pérez-Moneo Nieto">
      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
      <meta name="description" content="">
-     <title>Analytics — Landing Page</title>
+     <title>Analytics — Landing Page - Tailwind CSS</title>
      <link rel="stylesheet" href="assets/css/dist/output.css" type="text/css" />
 
 </head>
